@@ -2,7 +2,7 @@
 
 ## How To Create Your Own Package
 
-`JSPower`'s builtin utilities are implemented in `JavaScript` language, for examples, `ASCII Text` and `Sort lines`. Source code of them is [Here](https://github.com/jspowerx/jspowerx.github.io/tree/master/packages/builtin).
+`JSPower`'s builtin utilities are implemented in `JavaScript` language, for examples, `ASCII Text` and `Sort lines`. Source code of them is [Here](https://github.com/jspowerx/jspowerx.github.io/tree/master/packages/builtin.bundle).
 
 This is called a package. 
 
@@ -64,7 +64,7 @@ var onMenuClicked = function(identifier){
 
 1. Each menu's JavaScript is run under separated context.
 2. `entry.js` describes all the JavaScript files and the run order the menu includes.
-3. Menu id can include a `dot` for supply 2 or more menu items in one menu directory. e.g. [See the Jump Menu Id](https://github.com/jspowerx/jspowerx.github.io/blob/master/packages/dlc/manifest.json)
+3. Menu id can include a `dot` for supply 2 or more menu items in one menu directory. e.g. [See the Jump Menu Id](https://github.com/jspowerx/jspowerx.github.io/blob/master/packages/dlc.bundle/manifest.json)
 
 ### Open Source Packages
 

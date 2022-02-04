@@ -5,7 +5,7 @@
 
 | Name | Author | Url | Description |
 | --- | --- | --- | --- |
-| JSPower DLC Pack 1 | everettjf | https://jspowerx.github.io/packages/dlc/  | Block comment, Jump Up/Down lines |
+| JSPower Extend | everettjf | https://jspowerx.github.io/packages/dlc.bundle/  | Block comment, Jump Up/Down lines |
 | *This is your package* | | |
 
 
