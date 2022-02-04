@@ -1,5 +1,5 @@
 {
-    "name":"Code Friend Builtin Package",
+    "name":"JSPower Builtin Package",
     "version":"1.0",
     "author":"everettjf",
     "website":"https://everettjf.github.io",
@@ -35,7 +35,7 @@
         },
         {
             "id":"about",
-            "name":"About Code Friend"
+            "name":"About JSPower"
         }
     ]
 }

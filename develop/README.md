@@ -1,8 +1,8 @@
-[Code Friend](https://qvcodefriend.github.io/) / [Marketplace](https://qvcodefriend.github.io/marketplace) / [Develop](https://qvcodefriend.github.io/develop) / [About Me](https://github.com/everettjf)
+[JSPower](https://jspowerx.github.io/) / [Marketplace](https://jspowerx.github.io/marketplace) / [Develop](https://jspowerx.github.io/develop) / [About Me](https://github.com/everettjf)
 
 ## How To Create Your Own Package
 
-`Code Friend`'s builtin utilities are implemented in `JavaScript` language, for examples, `ASCII Text` and `Sort lines`. Source code of them is [Here](https://github.com/qvcodefriend/qvcodefriend.github.io/tree/master/packages/builtin).
+`JSPower`'s builtin utilities are implemented in `JavaScript` language, for examples, `ASCII Text` and `Sort lines`. Source code of them is [Here](https://github.com/jspowerx/jspowerx.github.io/tree/master/packages/builtin).
 
 This is called a package. 
 
@@ -17,7 +17,7 @@ This is called a package.
 
 ### Tutorial
 
-1) Create GitHub Pages like this one : <https://github.com/qvcodefriend/qvcodefriend.github.io> , and clone `packages/helloworld` directory.
+1) Create GitHub Pages like this one : <https://github.com/jspowerx/jspowerx.github.io> , and clone `packages/helloworld` directory.
 
 2) Create `manifest.json` in `packages/helloworld` directory, and create directory for each menu item with `menu id`.
 
@@ -58,17 +58,17 @@ var onMenuClicked = function(identifier){
 };
 ```
 
-4) That's all. Publish your code and `Add Package in Code Friend macOS App`.
+4) That's all. Publish your code and `Add Package in JSPower macOS App`.
 
 ### More Detail
 
 1. Each menu's JavaScript is run under separated context.
 2. `entry.js` describes all the JavaScript files and the run order the menu includes.
-3. Menu id can include a `dot` for supply 2 or more menu items in one menu directory. e.g. [See the Jump Menu Id](https://github.com/qvcodefriend/qvcodefriend.github.io/blob/master/packages/dlc/manifest.json)
+3. Menu id can include a `dot` for supply 2 or more menu items in one menu directory. e.g. [See the Jump Menu Id](https://github.com/jspowerx/jspowerx.github.io/blob/master/packages/dlc/manifest.json)
 
 ### Open Source Packages
 
-The `builtin` and `DLC Pack 1` is opensource under [Here](https://github.com/qvcodefriend/qvcodefriend.github.io/tree/master/packages)
+The `builtin` and `DLC Pack 1` is opensource under [Here](https://github.com/jspowerx/jspowerx.github.io/tree/master/packages)
 
 ### API Document
 
