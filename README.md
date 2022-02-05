@@ -2,7 +2,7 @@
 
 ## JSPower
 
-JSPower is an Xcode extension, and it provide development interface for the JavaScript language. Anyone can create Xcode extension utilities using JavaScript.
+JSPower is an Xcode extension, it provide development interface for the JavaScript language. Anyone can create Xcode extension utilities using JavaScript.
 
 Install from [Mac App Store](https://itunes.apple.com/cn/app/code-friend/id1441249580) and see `How to enable in Xcode` section below.
 
