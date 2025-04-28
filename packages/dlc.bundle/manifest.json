@@ -1,0 +1,21 @@
+{
+  "name": "JSPower DLC Pack 1",
+  "version": "1.0",
+  "author": "everettjf",
+  "website": "https://everettjf.github.io",
+  "description": "Block comment and jump lines",
+  "menu": [
+    {
+      "id": "block-comment",
+      "name": "Block Comment"
+    },
+    {
+      "id": "jump.up-20-lines",
+      "name": "Jump Up 20 Lines"
+    },
+    {
+      "id": "jump.down-20-lines",
+      "name": "Jump Down 20 Lines"
+    }
+  ]
+}
